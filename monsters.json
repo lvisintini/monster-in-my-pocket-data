@@ -1,0 +1,290 @@
+[
+  {
+    "number": 1, 
+    "name": "Great Beast", 
+    "serie": 1, 
+    "image": "images/001-great-beast.png"
+  }, 
+  {
+    "number": 2, 
+    "name": "Hydra", 
+    "serie": 1, 
+    "image": "images/002-hydra.png"
+  }, 
+  {
+    "number": 3, 
+    "name": "Werewolf", 
+    "serie": 1, 
+    "image": "images/003-werewolf.png"
+  }, 
+  {
+    "number": 4, 
+    "name": "Behemoth", 
+    "serie": 1, 
+    "image": "images/004-behemoth.png"
+  }, 
+  {
+    "number": 5, 
+    "name": "Griffin", 
+    "serie": 1, 
+    "image": "images/005-griffin.png"
+  }, 
+  {
+    "number": 6, 
+    "name": "Tyrannosaurus Rex", 
+    "serie": 1, 
+    "image": "images/006-tyrannosaurus-rex.png"
+  }, 
+  {
+    "number": 7, 
+    "name": "Cockatrice", 
+    "serie": 1, 
+    "image": "images/007-cockatrice.png"
+  }, 
+  {
+    "number": 8, 
+    "name": "Cyclops", 
+    "serie": 1, 
+    "image": "images/008-cyclops.png"
+  }, 
+  {
+    "number": 9, 
+    "name": "Tengu", 
+    "serie": 1, 
+    "image": "images/009-tengu.png"
+  }, 
+  {
+    "number": 10, 
+    "name": "Triton", 
+    "serie": 1, 
+    "image": "images/010-triton.png"
+  }, 
+  {
+    "number": 11, 
+    "name": "Kraken", 
+    "serie": 1, 
+    "image": "images/011-kraken.png"
+  }, 
+  {
+    "number": 12, 
+    "name": "Jotun Troll", 
+    "serie": 1, 
+    "image": "images/012-jotun-troll.png"
+  }, 
+  {
+    "number": 13, 
+    "name": "The Monster", 
+    "serie": 1, 
+    "image": "images/013-the-monster.png"
+  }, 
+  {
+    "number": 14, 
+    "name": "Manticore", 
+    "serie": 1, 
+    "image": "images/014-manticore.png"
+  }, 
+  {
+    "number": 15, 
+    "name": "Karnak", 
+    "serie": 1, 
+    "image": "images/015-karnak.png"
+  }, 
+  {
+    "number": 16, 
+    "name": "Coatlicue", 
+    "serie": 1, 
+    "image": "images/016-coatlicue.png"
+  }, 
+  {
+    "number": 17, 
+    "name": "Bigfoot", 
+    "serie": 1, 
+    "image": "images/017-bigfoot.png"
+  }, 
+  {
+    "number": 18, 
+    "name": "Baba Yaga", 
+    "serie": 1, 
+    "image": "images/018-baba-yaga.png"
+  }, 
+  {
+    "number": 19, 
+    "name": "Kali", 
+    "serie": 1, 
+    "image": "images/019-kali.png"
+  }, 
+  {
+    "number": 20, 
+    "name": "Catoblepas", 
+    "serie": 1, 
+    "image": "images/020-catoblepas.png"
+  }, 
+  {
+    "number": 21, 
+    "name": "Harpy", 
+    "serie": 1, 
+    "image": "images/021-harpy.png"
+  }, 
+  {
+    "number": 22, 
+    "name": "Haniver", 
+    "serie": 1, 
+    "image": "images/022-haniver.png"
+  }, 
+  {
+    "number": 23, 
+    "name": "Hobgoblin", 
+    "serie": 1, 
+    "image": "images/023-hobgoblin.png"
+  }, 
+  {
+    "number": 24, 
+    "name": "Windigo", 
+    "serie": 1, 
+    "image": "images/024-windigo.png"
+  }, 
+  {
+    "number": 25, 
+    "name": "Red Cap", 
+    "serie": 1, 
+    "image": "images/025-red-cap.png"
+  }, 
+  {
+    "number": 26, 
+    "name": "Medusa", 
+    "serie": 1, 
+    "image": "images/026-medusa.png"
+  }, 
+  {
+    "number": 27, 
+    "name": "Goblin", 
+    "serie": 1, 
+    "image": "images/027-goblin.png"
+  }, 
+  {
+    "number": 28, 
+    "name": "Cerberus", 
+    "serie": 1, 
+    "image": "images/028-cerberus.png"
+  }, 
+  {
+    "number": 29, 
+    "name": "Zombie", 
+    "serie": 1, 
+    "image": "images/029-zombie.png"
+  }, 
+  {
+    "number": 30, 
+    "name": "Chimera", 
+    "serie": 1, 
+    "image": "images/030-chimera.png"
+  }, 
+  {
+    "number": 31, 
+    "name": "Ghost", 
+    "serie": 1, 
+    "image": "images/031-ghost.png"
+  }, 
+  {
+    "number": 32, 
+    "name": "Ogre", 
+    "serie": 1, 
+    "image": "images/032-ogre.png"
+  }, 
+  {
+    "number": 33, 
+    "name": "Vampire", 
+    "serie": 1, 
+    "image": "images/033-vampire.png"
+  }, 
+  {
+    "number": 34, 
+    "name": "Roc", 
+    "serie": 1, 
+    "image": "images/034-roc.png"
+  }, 
+  {
+    "number": 35, 
+    "name": "Gremlin", 
+    "serie": 1, 
+    "image": "images/035-gremlin.png"
+  }, 
+  {
+    "number": 36, 
+    "name": "Vampiress", 
+    "serie": 1, 
+    "image": "images/036-vampiress.png"
+  }, 
+  {
+    "number": 37, 
+    "name": "Ghoul", 
+    "serie": 1, 
+    "image": "images/037-ghoul.png"
+  }, 
+  {
+    "number": 38, 
+    "name": "Phantom", 
+    "serie": 1, 
+    "image": "images/038-phantom.png"
+  }, 
+  {
+    "number": 39, 
+    "name": "Mad Scientist", 
+    "serie": 1, 
+    "image": "images/039-mad-scientist.png"
+  }, 
+  {
+    "number": 40, 
+    "name": "Winged Panther", 
+    "serie": 1, 
+    "image": "images/040-winged-panther.png"
+  }, 
+  {
+    "number": 41, 
+    "name": "Mummy", 
+    "serie": 1, 
+    "image": "images/041-mummy.png"
+  }, 
+  {
+    "number": 42, 
+    "name": "Charon", 
+    "serie": 1, 
+    "image": "images/042-charon.png"
+  }, 
+  {
+    "number": 43, 
+    "name": "The Beast", 
+    "serie": 1, 
+    "image": "images/043-the-beast.png"
+  }, 
+  {
+    "number": 44, 
+    "name": "Witch", 
+    "serie": 1, 
+    "image": "images/044-witch.png"
+  }, 
+  {
+    "number": 45, 
+    "name": "Spring Heeled Jack", 
+    "serie": 1, 
+    "image": "images/045-spring-heeled-jack.png"
+  }, 
+  {
+    "number": 46, 
+    "name": "Invisible Man", 
+    "serie": 1, 
+    "image": "images/046-invisible-man.png"
+  }, 
+  {
+    "number": 47, 
+    "name": "Skeleton", 
+    "serie": 1, 
+    "image": "images/047-skeleton.png"
+  }, 
+  {
+    "number": 48, 
+    "name": "Hunchback", 
+    "serie": 1, 
+    "image": "images/048-hunchback.png"
+  }
+]
