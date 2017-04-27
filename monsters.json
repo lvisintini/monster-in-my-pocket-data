@@ -1,290 +1,386 @@
 [
   {
-    "number": 1, 
-    "name": "Great Beast", 
-    "serie": 1, 
-    "image": "images/001-great-beast.png"
-  }, 
+    "number": 1,
+    "name": "Great Beast",
+    "serie": 1,
+    "image": "images/001-great-beast.png",
+    "intelligence": 7,
+    "strength": 10
+  },
   {
-    "number": 2, 
-    "name": "Hydra", 
-    "serie": 1, 
-    "image": "images/002-hydra.png"
-  }, 
+    "number": 2,
+    "name": "Hydra",
+    "serie": 1,
+    "image": "images/002-hydra.png",
+    "intelligence": 8,
+    "strength": 10
+  },
   {
-    "number": 3, 
-    "name": "Werewolf", 
-    "serie": 1, 
-    "image": "images/003-werewolf.png"
-  }, 
+    "number": 3,
+    "name": "Werewolf",
+    "serie": 1,
+    "image": "images/003-werewolf.png",
+    "intelligence": 9,
+    "strength": 8
+  },
   {
-    "number": 4, 
-    "name": "Behemoth", 
-    "serie": 1, 
-    "image": "images/004-behemoth.png"
-  }, 
+    "number": 4,
+    "name": "Behemoth",
+    "serie": 1,
+    "image": "images/004-behemoth.png",
+    "intelligence": 8,
+    "strength": 10
+  },
   {
-    "number": 5, 
-    "name": "Griffin", 
-    "serie": 1, 
-    "image": "images/005-griffin.png"
-  }, 
+    "number": 5,
+    "name": "Griffin",
+    "serie": 1,
+    "image": "images/005-griffin.png",
+    "intelligence": 8,
+    "strength": 9
+  },
   {
-    "number": 6, 
-    "name": "Tyrannosaurus Rex", 
-    "serie": 1, 
-    "image": "images/006-tyrannosaurus-rex.png"
-  }, 
+    "number": 6,
+    "name": "Tyrannosaurus Rex",
+    "serie": 1,
+    "image": "images/006-tyrannosaurus-rex.png",
+    "intelligence": 5,
+    "strength": 10
+  },
   {
-    "number": 7, 
-    "name": "Cockatrice", 
-    "serie": 1, 
-    "image": "images/007-cockatrice.png"
-  }, 
+    "number": 7,
+    "name": "Cockatrice",
+    "serie": 1,
+    "image": "images/007-cockatrice.png",
+    "intelligence": 6,
+    "strength": 10
+  },
   {
-    "number": 8, 
-    "name": "Cyclops", 
-    "serie": 1, 
-    "image": "images/008-cyclops.png"
-  }, 
+    "number": 8,
+    "name": "Cyclops",
+    "serie": 1,
+    "image": "images/008-cyclops.png",
+    "intelligence": 5,
+    "strength": 9
+  },
   {
-    "number": 9, 
-    "name": "Tengu", 
-    "serie": 1, 
-    "image": "images/009-tengu.png"
-  }, 
+    "number": 9,
+    "name": "Tengu",
+    "serie": 1,
+    "image": "images/009-tengu.png",
+    "intelligence": 9,
+    "strength": 6
+  },
   {
-    "number": 10, 
-    "name": "Triton", 
-    "serie": 1, 
-    "image": "images/010-triton.png"
-  }, 
+    "number": 10,
+    "name": "Triton",
+    "serie": 1,
+    "image": "images/010-triton.png",
+    "intelligence": 9,
+    "strength": 7
+  },
   {
-    "number": 11, 
-    "name": "Kraken", 
-    "serie": 1, 
-    "image": "images/011-kraken.png"
-  }, 
+    "number": 11,
+    "name": "Kraken",
+    "serie": 1,
+    "image": "images/011-kraken.png",
+    "intelligence": 4,
+    "strength": 10
+  },
   {
-    "number": 12, 
-    "name": "Jotun Troll", 
-    "serie": 1, 
-    "image": "images/012-jotun-troll.png"
-  }, 
+    "number": 12,
+    "name": "Jotun Troll",
+    "serie": 1,
+    "image": "images/012-jotun-troll.png",
+    "intelligence": 8,
+    "strength": 7
+  },
   {
-    "number": 13, 
-    "name": "The Monster", 
-    "serie": 1, 
-    "image": "images/013-the-monster.png"
-  }, 
+    "number": 13,
+    "name": "The Monster",
+    "serie": 1,
+    "image": "images/013-the-monster.png",
+    "intelligence": 4,
+    "strength": 9
+  },
   {
-    "number": 14, 
-    "name": "Manticore", 
-    "serie": 1, 
-    "image": "images/014-manticore.png"
-  }, 
+    "number": 14,
+    "name": "Manticore",
+    "serie": 1,
+    "image": "images/014-manticore.png",
+    "intelligence": 4,
+    "strength": 7
+  },
   {
-    "number": 15, 
-    "name": "Karnak", 
-    "serie": 1, 
-    "image": "images/015-karnak.png"
-  }, 
+    "number": 15,
+    "name": "Karnak",
+    "serie": 1,
+    "image": "images/015-karnak.png",
+    "intelligence": 5,
+    "strength": 9
+  },
   {
-    "number": 16, 
-    "name": "Coatlicue", 
-    "serie": 1, 
-    "image": "images/016-coatlicue.png"
-  }, 
+    "number": 16,
+    "name": "Coatlicue",
+    "serie": 1,
+    "image": "images/016-coatlicue.png",
+    "intelligence": 7,
+    "strength": 6
+  },
   {
-    "number": 17, 
-    "name": "Bigfoot", 
-    "serie": 1, 
-    "image": "images/017-bigfoot.png"
-  }, 
+    "number": 17,
+    "name": "Bigfoot",
+    "serie": 1,
+    "image": "images/017-bigfoot.png",
+    "intelligence": 4,
+    "strength": 8
+  },
   {
-    "number": 18, 
-    "name": "Baba Yaga", 
-    "serie": 1, 
-    "image": "images/018-baba-yaga.png"
-  }, 
+    "number": 18,
+    "name": "Baba Yaga",
+    "serie": 1,
+    "image": "images/018-baba-yaga.png",
+    "intelligence": 5,
+    "strength": 7
+  },
   {
-    "number": 19, 
-    "name": "Kali", 
-    "serie": 1, 
-    "image": "images/019-kali.png"
-  }, 
+    "number": 19,
+    "name": "Kali",
+    "serie": 1,
+    "image": "images/019-kali.png",
+    "intelligence": 6,
+    "strength": 6
+  },
   {
-    "number": 20, 
-    "name": "Catoblepas", 
-    "serie": 1, 
-    "image": "images/020-catoblepas.png"
-  }, 
+    "number": 20,
+    "name": "Catoblepas",
+    "serie": 1,
+    "image": "images/020-catoblepas.png",
+    "intelligence": 4,
+    "strength": 9
+  },
   {
-    "number": 21, 
-    "name": "Harpy", 
-    "serie": 1, 
-    "image": "images/021-harpy.png"
-  }, 
+    "number": 21,
+    "name": "Harpy",
+    "serie": 1,
+    "image": "images/021-harpy.png",
+    "intelligence": 7,
+    "strength": 5
+  },
   {
-    "number": 22, 
-    "name": "Haniver", 
-    "serie": 1, 
-    "image": "images/022-haniver.png"
-  }, 
+    "number": 22,
+    "name": "Haniver",
+    "serie": 1,
+    "image": "images/022-haniver.png",
+    "intelligence": 8,
+    "strength": 5
+  },
   {
-    "number": 23, 
-    "name": "Hobgoblin", 
-    "serie": 1, 
-    "image": "images/023-hobgoblin.png"
-  }, 
+    "number": 23,
+    "name": "Hobgoblin",
+    "serie": 1,
+    "image": "images/023-hobgoblin.png",
+    "intelligence": 6,
+    "strength": 5
+  },
   {
-    "number": 24, 
-    "name": "Windigo", 
-    "serie": 1, 
-    "image": "images/024-windigo.png"
-  }, 
+    "number": 24,
+    "name": "Windigo",
+    "serie": 1,
+    "image": "images/024-windigo.png",
+    "intelligence": 5,
+    "strength": 8
+  },
   {
-    "number": 25, 
-    "name": "Red Cap", 
-    "serie": 1, 
-    "image": "images/025-red-cap.png"
-  }, 
+    "number": 25,
+    "name": "Red Cap",
+    "serie": 1,
+    "image": "images/025-red-cap.png",
+    "intelligence": 10,
+    "strength": 4
+  },
   {
-    "number": 26, 
-    "name": "Medusa", 
-    "serie": 1, 
-    "image": "images/026-medusa.png"
-  }, 
+    "number": 26,
+    "name": "Medusa",
+    "serie": 1,
+    "image": "images/026-medusa.png",
+    "intelligence": 8,
+    "strength": 5
+  },
   {
-    "number": 27, 
-    "name": "Goblin", 
-    "serie": 1, 
-    "image": "images/027-goblin.png"
-  }, 
+    "number": 27,
+    "name": "Goblin",
+    "serie": 1,
+    "image": "images/027-goblin.png",
+    "intelligence": 5,
+    "strength": 6
+  },
   {
-    "number": 28, 
-    "name": "Cerberus", 
-    "serie": 1, 
-    "image": "images/028-cerberus.png"
-  }, 
+    "number": 28,
+    "name": "Cerberus",
+    "serie": 1,
+    "image": "images/028-cerberus.png",
+    "intelligence": 4,
+    "strength": 6
+  },
   {
-    "number": 29, 
-    "name": "Zombie", 
-    "serie": 1, 
-    "image": "images/029-zombie.png"
-  }, 
+    "number": 29,
+    "name": "Zombie",
+    "serie": 1,
+    "image": "images/029-zombie.png",
+    "intelligence": 0,
+    "strength": 9
+  },
   {
-    "number": 30, 
-    "name": "Chimera", 
-    "serie": 1, 
-    "image": "images/030-chimera.png"
-  }, 
+    "number": 30,
+    "name": "Chimera",
+    "serie": 1,
+    "image": "images/030-chimera.png",
+    "intelligence": 6,
+    "strength": 7
+  },
   {
-    "number": 31, 
-    "name": "Ghost", 
-    "serie": 1, 
-    "image": "images/031-ghost.png"
-  }, 
+    "number": 31,
+    "name": "Ghost",
+    "serie": 1,
+    "image": "images/031-ghost.png",
+    "intelligence": 1,
+    "strength": 3
+  },
   {
-    "number": 32, 
-    "name": "Ogre", 
-    "serie": 1, 
-    "image": "images/032-ogre.png"
-  }, 
+    "number": 32,
+    "name": "Ogre",
+    "serie": 1,
+    "image": "images/032-ogre.png",
+    "intelligence": 2,
+    "strength": 6
+  },
   {
-    "number": 33, 
-    "name": "Vampire", 
-    "serie": 1, 
-    "image": "images/033-vampire.png"
-  }, 
+    "number": 33,
+    "name": "Vampire",
+    "serie": 1,
+    "image": "images/033-vampire.png",
+    "intelligence": 10,
+    "strength": 6
+  },
   {
-    "number": 34, 
-    "name": "Roc", 
-    "serie": 1, 
-    "image": "images/034-roc.png"
-  }, 
+    "number": 34,
+    "name": "Roc",
+    "serie": 1,
+    "image": "images/034-roc.png",
+    "intelligence": 3,
+    "strength": 8
+  },
   {
-    "number": 35, 
-    "name": "Gremlin", 
-    "serie": 1, 
-    "image": "images/035-gremlin.png"
-  }, 
+    "number": 35,
+    "name": "Gremlin",
+    "serie": 1,
+    "image": "images/035-gremlin.png",
+    "intelligence": 4,
+    "strength": 4
+  },
   {
-    "number": 36, 
-    "name": "Vampiress", 
-    "serie": 1, 
-    "image": "images/036-vampiress.png"
-  }, 
+    "number": 36,
+    "name": "Vampiress",
+    "serie": 1,
+    "image": "images/036-vampiress.png",
+    "intelligence": 10,
+    "strength": 6
+  },
   {
-    "number": 37, 
-    "name": "Ghoul", 
-    "serie": 1, 
-    "image": "images/037-ghoul.png"
-  }, 
+    "number": 37,
+    "name": "Ghoul",
+    "serie": 1,
+    "image": "images/037-ghoul.png",
+    "intelligence": 1,
+    "strength": 7
+  },
   {
-    "number": 38, 
-    "name": "Phantom", 
-    "serie": 1, 
-    "image": "images/038-phantom.png"
-  }, 
+    "number": 38,
+    "name": "Phantom",
+    "serie": 1,
+    "image": "images/038-phantom.png",
+    "intelligence": 9,
+    "strength": 6
+  },
   {
-    "number": 39, 
-    "name": "Mad Scientist", 
-    "serie": 1, 
-    "image": "images/039-mad-scientist.png"
-  }, 
+    "number": 39,
+    "name": "Mad Scientist",
+    "serie": 1,
+    "image": "images/039-mad-scientist.png",
+    "intelligence": 10,
+    "strength": 6
+  },
   {
-    "number": 40, 
-    "name": "Winged Panther", 
-    "serie": 1, 
-    "image": "images/040-winged-panther.png"
-  }, 
+    "number": 40,
+    "name": "Winged Panther",
+    "serie": 1,
+    "image": "images/040-winged-panther.png",
+    "intelligence": 2,
+    "strength": 6
+  },
   {
-    "number": 41, 
-    "name": "Mummy", 
-    "serie": 1, 
-    "image": "images/041-mummy.png"
-  }, 
+    "number": 41,
+    "name": "Mummy",
+    "serie": 1,
+    "image": "images/041-mummy.png",
+    "intelligence": 1,
+    "strength": 7
+  },
   {
-    "number": 42, 
-    "name": "Charon", 
-    "serie": 1, 
-    "image": "images/042-charon.png"
-  }, 
+    "number": 42,
+    "name": "Charon",
+    "serie": 1,
+    "image": "images/042-charon.png",
+    "intelligence": 8,
+    "strength": 4
+  },
   {
-    "number": 43, 
-    "name": "The Beast", 
-    "serie": 1, 
-    "image": "images/043-the-beast.png"
-  }, 
+    "number": 43,
+    "name": "The Beast",
+    "serie": 1,
+    "image": "images/043-the-beast.png",
+    "intelligence": 5,
+    "strength": 4
+  },
   {
-    "number": 44, 
-    "name": "Witch", 
-    "serie": 1, 
-    "image": "images/044-witch.png"
-  }, 
+    "number": 44,
+    "name": "Witch",
+    "serie": 1,
+    "image": "images/044-witch.png",
+    "intelligence": 4,
+    "strength": 4
+  },
   {
-    "number": 45, 
-    "name": "Spring Heeled Jack", 
-    "serie": 1, 
-    "image": "images/045-spring-heeled-jack.png"
-  }, 
+    "number": 45,
+    "name": "Spring Heeled Jack",
+    "serie": 1,
+    "image": "images/045-spring-heeled-jack.png",
+    "intelligence": 1,
+    "strength": 1
+  },
   {
-    "number": 46, 
-    "name": "Invisible Man", 
-    "serie": 1, 
-    "image": "images/046-invisible-man.png"
-  }, 
+    "number": 46,
+    "name": "Invisible Man",
+    "serie": 1,
+    "image": "images/046-invisible-man.png",
+    "intelligence": 7,
+    "strength": 6
+  },
   {
-    "number": 47, 
-    "name": "Skeleton", 
-    "serie": 1, 
-    "image": "images/047-skeleton.png"
-  }, 
+    "number": 47,
+    "name": "Skeleton",
+    "serie": 1,
+    "image": "images/047-skeleton.png",
+    "intelligence": 2,
+    "strength": 5
+  },
   {
-    "number": 48, 
-    "name": "Hunchback", 
-    "serie": 1, 
-    "image": "images/048-hunchback.png"
+    "number": 48,
+    "name": "Hunchback",
+    "serie": 1,
+    "image": "images/048-hunchback.png",
+    "intelligence": 3,
+    "strength": 6
   }
 ]
